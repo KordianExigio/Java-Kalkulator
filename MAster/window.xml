@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+    <panel>
+        <grid>
+            <row>
+                <label text="Pole 1:"/>
+                <textfield name="field1" columns="10"/>
+            </row>
+            <row>
+                <label text="Pole 2:"/>
+                <textfield name="field2" columns="10"/>
+            </row>
+        </grid>
+    </panel>
+</layout>
